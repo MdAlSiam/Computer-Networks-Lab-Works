@@ -1,3 +1,5 @@
+//Server side programming of a server-client connection which can exchange message between them.
+
 package MyPackage_Lab_02;
 
 import java.net.*;
