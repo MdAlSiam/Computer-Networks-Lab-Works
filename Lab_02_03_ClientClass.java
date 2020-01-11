@@ -37,6 +37,7 @@ public class ClientClass {
 					System.out.println(" -- Conversation Over from Client -- ");
 					break;
 				}
+		
 				
 				output.writeUTF(str);
 			}catch(IOException i) {System.out.println(i);}
