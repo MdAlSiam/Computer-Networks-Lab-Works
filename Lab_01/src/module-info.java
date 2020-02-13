@@ -1,0 +1,2 @@
+module Lab_01 {
+}
